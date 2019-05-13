@@ -1,0 +1,4 @@
+save it into your folder. (locate folder: c:/ -> xampp -> htdocs -> make your own folder -> save it into .php) [http://localhost/adrian/index.php]
+
+save it into .php.
+

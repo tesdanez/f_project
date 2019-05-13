@@ -1,0 +1,138 @@
+body {
+	background-color: #f9f6f6;
+	margin: 0px;
+	margin-top: 0px;
+	
+}
+
+#icon{
+	height: 200px;
+	position:absolute;
+	right:	550px;
+	top: -40px;
+}
+
+#icon2 {
+	height: 130px;
+	position:absolute;
+	right:	570px;
+	top: 490px;
+}
+
+nav{
+	margin: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	height: 32px;
+	width: 100%;
+}
+nav ul {
+	margin-top: 45px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.container {
+	background-color: #3b3939;
+}
+
+.container li{
+	list-style-type: none;
+	padding-top: 5px;
+
+}
+
+.container li a {
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+}
+
+#container {
+	margin:0px;
+}
+
+
+#container #carouselExampleIndicators {
+	margin-top: 15px;
+
+}
+
+.carousel {
+  width:1140px;
+  height:400px;
+}
+
+.carousel img {
+  height:400px;
+}
+
+#container-2 {
+	margin: 10px;
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.container-3 {
+	background-color: #ECECEC;
+	margin-left: 90px;
+	margin-right: 90px;
+	display: flex;
+	height: 500px;
+	margin-bottom: 20px;
+	text-align: center;
+	
+
+
+}
+
+.container-3 div{
+	
+	border: 10px solid #f9f6f6;
+	padding-right: 10px;
+
+}
+
+.box1 {
+	flex:1;
+	padding-right: 10px;
+	align-items: center;
+
+}
+
+.box2 {
+	flex:2;
+}
+
+.box3 {
+	flex:2;
+}
+
+.box4 {
+	flex:2;
+}
+
+.box1 img {
+	height: 90px;
+}
+
+.btn {
+
+}
+
+.btn button{
+	align-items: center;
+	border:0px;
+	color: gray;
+	width: 150px;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+$ cd dan
+$ git clone (copy clone from github)
+$ ls
+background generator/ index.html stryl.css
+$ cd background generator
+$ git status
+
+on branch master
+$ git status
+
+$ git add index.html
+
+$ git add style.css
+
+$ git status
+
+
+$git commit -m "added starter html css files"
+
+$ git push
+
+__________________________
+steps
+
+git config --globaluser.name "___"
+git config --global user.email "_____"
+git config --list
+git clone (copy HTTP clone)
+cd desktop --> checking if your file clone on desktop.
+history -->list of previews command
+
+$ cd testgit
+$ git status (lalabas ung index.html mo sa sublime)
+$git add testgit.html (dapat may master sa dulo)
+$ git status (dapat lalabs ang new file: testgit.html)
+$ git commit -m"added testgi.html"
+
+$ git log (mag added testgit.html)
+(dont use it)$ git revert 023a --> (balik sa umpisa... 023a  is the 1st four letter/number on your commit)
+$ git push origin master
+ DONE!!!
+
+_______________________
+
+NeXt
+
+
+1 git branch -a (check all)
+2 git checout -b develop (going to develop from master)
+3 git branch -a (checkall)
+4 git checkout master (going back to master)
+5 $git add testgit.html (dapat may master sa dulo)
+6 $ git status (dapat lalabs ang new file: testgit.html)
+7 $ git commit -m"added testgi.html"
+8 $ git push origin master
+
+
+
+
+
+
+

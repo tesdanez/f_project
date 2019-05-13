@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DOM</title>
+</head>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+<body>
+
+	<h1>Shopping List</h1>
+	<p id="first">Get it Done</p>
+	<p class="second">No Excuses</p>
+	<button id="enter">Click Mo!</button>
+
+
+	<ul>
+		<li random="45">Kamias</li>
+		<li>Milk</li>
+		<li>Kamatis</li>
+		<li>Kalamansi</li>
+		<li>Kalabasa</li>
+		<li>Kangkong</li>
+
+	</ul>
+<script>
+	
+var button = document.getElementsByTagName("button")[0];
+
+button.addEventListener("dblclick", function(){
+
+console.log("CLICK!!!!!!!!!!");
+
+});
+
+</script>
+
+
+
+</body>
+</html>
